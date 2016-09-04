@@ -1,0 +1,16 @@
+E:\sliit\DAA\DAA\bin\Debug\DAA.exe
+E:\sliit\DAA\DAA\bin\Debug\DAA.pdb
+E:\sliit\DAA\DAA\obj\Debug\DAA.csprojResolveAssemblyReference.cache
+E:\sliit\DAA\DAA\obj\Debug\DAA.Form1.resources
+E:\sliit\DAA\DAA\obj\Debug\DAA.Properties.Resources.resources
+E:\sliit\DAA\DAA\obj\Debug\DAA.csproj.GenerateResource.Cache
+E:\sliit\DAA\DAA\obj\Debug\DAA.exe
+E:\sliit\DAA\DAA\obj\Debug\DAA.pdb
+C:\Users\Nandun\Documents\GitHub\angelo\DAA\DAA\obj\Debug\DAA.exe
+C:\Users\Nandun\Documents\GitHub\angelo\DAA\DAA\obj\Debug\DAA.pdb
+C:\Users\Nandun\Documents\GitHub\angelo\DAA\DAA\bin\Debug\DAA.exe
+C:\Users\Nandun\Documents\GitHub\angelo\DAA\DAA\bin\Debug\DAA.pdb
+C:\Users\Nandun\Documents\GitHub\angelo\DAA\DAA\obj\Debug\DAA.csprojResolveAssemblyReference.cache
+C:\Users\Nandun\Documents\GitHub\angelo\DAA\DAA\obj\Debug\DAA.Form1.resources
+C:\Users\Nandun\Documents\GitHub\angelo\DAA\DAA\obj\Debug\DAA.Properties.Resources.resources
+C:\Users\Nandun\Documents\GitHub\angelo\DAA\DAA\obj\Debug\DAA.csproj.GenerateResource.Cache
